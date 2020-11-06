@@ -4,4 +4,5 @@ Hello world!
 fix a but - 2
 
 change 3 - by team mate on master for his workitem 4
-Chage for loging feature.
+
+change 4 - for fixing bug 2
