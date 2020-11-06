@@ -1,9 +1,9 @@
 Hello world!
 
 
-change 1 - enhancment in login feature 
+change 1 - enhancment in login feature .
 
-fix a but - 2
+change 2 - fix a but - 2.
 
 change 3 - By team mate on master for his workitem 4
 
@@ -16,3 +16,8 @@ change 6 -> By for Enhacement 1
 change 7 - > By uplote to push on git hub
 
 change 8 -> By team mate on remote master to test rebase
+
+change 9 - > uplote to push on git hub.
+
+change 10 -> On local master to test rebase for wi8.
+
