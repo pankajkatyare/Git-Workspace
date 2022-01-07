@@ -22,3 +22,6 @@ change 9 - > uplote to push on git hub.
 change 10 -> On local master to test rebase for wi8.
 
 Change 11 -> test simple pull operation from remote to local by team mate
+
+
+Change 12 - > on ubantu
